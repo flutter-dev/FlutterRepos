@@ -11,3 +11,5 @@
 | flutter_wanandroid | Flutter版WanAndroid App，包含启动页，引导页，主题色切换，应用国际化多语言等功能 | https://github.com/Sky24n/flutter_wanandroid |
 | flat_screen_lock | 密码锁界面 | https://github.com/flutter-dev/flat_screen_lock |
 | route_animation | 页面跳转动画自定义 | https://github.com/flutter-dev/route_animation |
+| flutter-webrtc | 基于Google WebRTC 框架，用于视频通话，视频会议，直播等场景，
+                  目前已支持iOS/Android, 正在移植到 desktop embedder | https://github.com/cloudwebrtc/flutter-webrtc |
