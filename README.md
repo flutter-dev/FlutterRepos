@@ -1,3 +1,6 @@
+_大家也可以提 PR，方便我操作_
+
+
 | 项目名 | 项目简介 | 项目地址 | 
 | ---- | ---- | ---- |
 | flutter_image_compress | 图片压缩 | https://pub.dartlang.org/packages/flutter_image_compress | 
