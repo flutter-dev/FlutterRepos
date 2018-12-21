@@ -17,3 +17,6 @@ _大家也可以提 PR，方便我操作_
 | flutter-webrtc | 基于Google WebRTC 框架，用于视频通话，视频会议，直播等场景，目前已支持iOS/Android, 正在移植到 desktop embedder | https://github.com/cloudwebrtc/flutter-webrtc |
 | flutter_map | 自己编写的一个小demo,仅供学习 | https://github.com/zyonehangao/flutter_map.git |
 | FlutterJsonBeanFactory | 帮助大家直接在ide里json生成实例,扫描lib下的所有以entity结尾的类,来帮助通过类是反射生成实例 | https://github.com/zhangruiyu/FlutterBeanFactory |
+| flutter_easyrefresh | Flutter版的SmartRefreshLayout，下拉刷新以及上拉加载，集成了多种风格的Header和Footer，但是它并没有局限性，你可以很轻松的自定义。 | https://github.com/xuelongqy/flutter_easyrefresh |
+|PullToRefresh_Flutter| Flutter上拉加载，下拉刷新控件 |https://github.com/baoolong/PullToRefresh_Flutter|
+|cool_ui|用flutter实现一些我认为好看的UI控件|https://github.com/Im-Kevin/cool_ui|
