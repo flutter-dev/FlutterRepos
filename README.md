@@ -20,3 +20,4 @@ _大家也可以提 PR，方便我操作_
 | flutter_easyrefresh | Flutter版的SmartRefreshLayout，下拉刷新以及上拉加载，集成了多种风格的Header和Footer，但是它并没有局限性，你可以很轻松的自定义。 | https://github.com/xuelongqy/flutter_easyrefresh |
 |PullToRefresh_Flutter| Flutter上拉加载，下拉刷新控件 |https://github.com/baoolong/PullToRefresh_Flutter|
 |cool_ui|用flutter实现一些我认为好看的UI控件|https://github.com/Im-Kevin/cool_ui|
+|flutter-img-sync|自动配置pubspec.yaml的assets变量(自动加载图片)，并生成R文件供代码中直接引用|https://github.com/Leo0618/flutter-img-sync|
